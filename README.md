@@ -5,6 +5,9 @@
 
 ### Geographical Hierarchies
 
+[This diagram](https://www2.census.gov/geo/pdfs/reference/geodiagram.pdf) shows how levels of geography relate from the highest *Nation* level down to lowest *Census Block*.
+![](standard_hierarchy_census_geographic_entities.png)
+
 For more info read the [Geographic Areas Reference Manual](https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html)
 
 - **Census Block** (`TABBLOCK20`): the smallest geographic census unit, *Census blocks* are bounded either by *visible* features --- such as streets, roads, streams, and railroad tracks --- or by *non-visible* boundaries --- such as selected property lines and city, township, school district, and county limits. Census blocks usually change every decade.
