@@ -34,4 +34,4 @@ For more info read the [Geographic Areas Reference Manual](https://www.census.go
         - *New England City and Town Area* (`NECTA`)
         - *New England City and Town Area Division* (`NECTADIV`)
 
-All geography polygons in shapefile format can be downloaded from [this FTP site](ftp2.census.gov) in this folder `/geo/tiger/TIGER2021/` using the coded acronym above as references.
+All geography polygons in shapefile format can be downloaded from [this FTP site](ftp2.census.gov) in this folder `/geo/tiger/TIGER2021/` using the coded acronym above as references. For all other formats, please refer to the [TIGER Data Products Guide](https://www.census.gov/programs-surveys/geography/guidance/tiger-data-products-guide.html)
